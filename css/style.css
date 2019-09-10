@@ -8,6 +8,10 @@
   src: url("./fonts/Baskerville.ttc");
 }
 
+h1 {
+  font-family: Baskerville;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
