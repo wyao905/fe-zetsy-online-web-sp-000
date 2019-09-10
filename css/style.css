@@ -2,16 +2,6 @@
 
 /* link the web font used for the level 1 heading here */
 
-
-@font-face {
-  font-family: "Baskerville";
-  src: url("Baskerville.ttc");
-}
-
-h1 {
-  font-family: Baskerville;
-}
-
 /*////////// Global Styles //////////*/
 
 body {
